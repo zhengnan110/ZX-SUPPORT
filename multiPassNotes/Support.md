@@ -40,7 +40,7 @@ Multi-Pass Notebook is a privacy-focused note app where:
 ## 📬 Contact Us
 
 - **Email:** zhengnanzhengnan@gmail.com  
-- **GitHub:** [github.com/yourname/multi_pwd_notes](https://github.com/yourname/multi_pwd_notes)
+- **GitHub:** https://zhengnan110.github.io/ZX-SUPPORT/multiPassNotes/Support
 
 ---
 
